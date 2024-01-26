@@ -1,13 +1,14 @@
 Photonvision Libraries
 ===========================
 
-These are not installed on the Robot by default. For installation instructions,
-see :ref:`robotpy-photonvision install docs <install_photonvision>`.
+robotpy's photonvision wrapper is deprecated.  Support is now available from the 
+vendor supported photonlibpy package.  The package is installable via pip:
 
-This documentation documents the various classes and methods that are
-available to Python code, but don't discuss in detail how to actually
-set up, configure, and tune your photonvision software. For that kind of information,
-refer to the `Photonvision site <https://docs.photonvision.org/>`_.
+`pip install photonlibpy`
+
+Refer to the `Photonvision site <https://docs.photonvision.org/>`_ for information
+on using the API.
+
 
 .. toctree::
     
